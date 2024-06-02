@@ -1,4 +1,4 @@
-# portfolio
+# my portfolio
 Welcome to Fizza Ajmi Rathore’s Portfolio!
 
 I’m Fizza Ajmi Rathore, a data analytics student with a foundation in computer science. This portfolio showcases my projects, skills, and experiences in data analysis, visualization, and interpretation.
